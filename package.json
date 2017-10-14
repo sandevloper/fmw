@@ -7,5 +7,18 @@
     "gulp-clean-css": "^3.7.0",
     "gulp-rename": "^1.2.0",
     "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "@ionic-native/facebook": "^4.1.0",
+    "cordova-plugin-facebook4": "^1.9.1",
+    "firebase": "^4.3.0"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-facebook4": {
+        "APP_ID": "1610744682289947",
+        "APP_NAME": "Wingman"
+      }
+    }
   }
 }

@@ -1,0 +1,10 @@
+itunes
+gracepartnership.org@gmail.com
+Freestart2017
+
+Firebase
+findmywingman@gmail.com
+Freestart2017
+
+https://ionicthemes.com/tutorials/about/native-facebook-login-with-ionic-framework
+cordova plugin add cordova-plugin-facebook4 --save --variable APP_ID="1610744682289947" --variable APP_NAME="Wingman"
